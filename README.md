@@ -1,4 +1,4 @@
-# test
+# README
 
 ■Thank you for downloading "TestLiveLinkFace".
 
