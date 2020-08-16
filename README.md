@@ -2,7 +2,7 @@
 
 ■Thank you for downloading "TestLiveLinkFace".
 
-①To open this UE4 project, please download "VRM4U" or "Kawaii Physics" (both free) and install them on your computer.
+①To open this UE4 project, please download "VRM4U" and "Kawaii Physics" (both free) and install them on your computer.
 　You will need to import it into the "TestLiveLinkFace/Plugin" folder.
 
 ②Double-click on the TestLiveLinkFace.uproject to open the project.
